@@ -12,12 +12,12 @@
 
 - You may want to [allow edits from maintainers](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork) to help with minor changes, such as fixing typos.
 
-Once you've submitted your ready-for-review PR, we'll review it. We may comment to ask for clarification or changes, so please check back in the next few days.
+- Once you've submitted your PR, our team will review it. We might comment to ask for clarifications or request changes, so please stay tuned and respond promptly within the next few days.
 
-To increase the chances that your PR is merged, please make sure that:
+- To increase the chances of your PR being merged, please ensure that:
 
-1. You've followed the guidelines above for associating your work with an issue.
-2. Your work is PEP8 linted.
-4. Your code snippets are correct, well-tested, and commented where necessary for understanding.
+     1. Your work is associated with a specific issue, following the guidelines above.
+     2. Your code adheres to the PEP8 style guide.
+     4. Your code snippets are correct, well-tested, and appropriately commented for better understanding.
 
-Once the PR is complete, we'll merge it! At.
+Once the PR is complete and meets the required criteria, we'll proceed to merge it!
