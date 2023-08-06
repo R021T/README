@@ -1,15 +1,16 @@
 ## How to Open an Issue
 
-[Create an issue](https://github.com/gtechatfg/gtech-atfg-discord-bot/issues/new/choose) using the appropriate template.
-
-Choose a short, descriptive title. Briefly explain what you think needs changing.
+- To create an issue, follow this [link](https://github.com/gtechatfg/gtech-atfg-discord-bot/issues/new/choose) and choose the appropriate template.
+- Use a short, descriptive title for the issue.
+- Provide a brief explanation of what you think needs to be changed or improved.
 
 ## How to Submit a Pull Request
 
-1. When you're ready to submit your work, push your changes to your fork. Ensure that your fork is [synced with `main`](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork).
-5. You can submit a [draft PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests) or a [regular PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork). If your work is not yet ready for review and merge, choose a draft PR. When your changes are ready to be reviewed, you can convert to a regular PR. See [how to change the stage of a PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/changing-the-stage-of-a-pull-request) for more.
+- When you're ready to submit your work, push your changes to your fork. Ensure that your fork is [synced with the `main` branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork).
 
-You may want to [allow edits from maintainers](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork) so we can help with small changes like fixing typos.
+- You have the option to submit a [draft PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests) or a [regular PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).If your work is not yet ready for review and merge, choose a draft PR. When your changes are ready to be reviewed, you can convert it to a regular PR. For more information, see [how to change the stage of a PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/changing-the-stage-of-a-pull-request).
+
+- You may want to [allow edits from maintainers](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork) to help with minor changes, such as fixing typos.
 
 Once you've submitted your ready-for-review PR, we'll review it. We may comment to ask for clarification or changes, so please check back in the next few days.
 
