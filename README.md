@@ -83,7 +83,7 @@ The bot is added to the server successfully.
 
 ## Commands
 
-Provided below is a list of basic commands to try out to ensure their functionality regarding the corresponding action performed by the bot.
+Provided below is a list of basic commands to try out to ensure their functionality regarding the corresponding action to be performed by the bot.
 
 ```python
 # For any assistance or support from the µLearn Team
