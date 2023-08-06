@@ -85,13 +85,16 @@ The bot is thus added to the server successfully.
 ```python
 # For any assistance or support from the µLearn Team, use the following command:
 /support-ticket
-
+```
+```python
 # To fetch your µid in case you don't remember, use the following command:
 /get-muid
-
+```
+```python
 # To edit your profile to integrate other services like GitHub with your ATFG µLearn profile, use the following command:
 /edit-profile
-
+```
+```python
 # To check your profile and rank based on your activities on the μLearn platform, use the following command:
 /rank
 ```
