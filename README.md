@@ -131,4 +131,4 @@ Provided below is a list of basic commands to try out to ensure their functional
 
 ## Contributing
 
-You are welcome to contribute by submitting a Pull Request to the repository , see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details
+You are welcome to contribute by submitting a Pull Request to the repository , see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
