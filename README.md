@@ -81,9 +81,8 @@ The bot is thus added to the server successfully.
 <a name="commands"/>
 
 ## Commands
-```bash
-# For any assistance or support from the µLearn Team, use the following command:
-/support-ticket
+```
+For any assistance or support from the µLearn Team, use the following command: `/support-ticket`
 ```
 
 ```bash
