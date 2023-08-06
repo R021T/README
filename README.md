@@ -28,7 +28,7 @@ Aaronchettan is a discord Bot coded in discord.py, which is used to moderate our
 - Head to the `Bot` tab, click `Add Bot`, and confirm.
 - Keep the default settings (check `Public bot` and uncheck `Require OAuth2 Code Grant`)
 
-A discord account has been created for the bot.
+A discord account is thus created for the bot.
 
 <a name="install"/>
 
@@ -76,11 +76,27 @@ BOT_TOKEN = "YOUR_TOKEN_HERE"
 - Next, select the `copy` button above permissions and paste the `URL` in the browser.
 - Choose a server for which you have `Manage Server Permissions` and click on `Authorize`.
 
-Your bot has now been added to the server!
+The bot is thus added to the server successfully.
+
 <a name="commands"/>
 
 ## Commands
-DUMMY COMMANDS
+- For any assistance or support from the µLearn Team, use the following command:
+```discord
+/support-ticket
+```
+- To fetch your µid in case you don't remember, use the following command:
+```discord
+/get-muid
+```
+- To edit your profile to integrate other services like GitHub with your ATFG µLearn profile, use the following command:
+```discord
+/edit-profile
+```
+- To check your profile and rank based on your activities on the μLearn platform, use the following command:
+```discord
+/rank
+```
 
 ## Contributing
 
