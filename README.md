@@ -18,7 +18,6 @@ Aaronchettan is a discord Bot coded in discord.py, which is used to moderate our
 - [Commit Types](commit)
 - [Commands](#commands)
 - [Contributing](#contributing)
-- [Licensing](#licensing)
 
 
 <a name="setup"/>
