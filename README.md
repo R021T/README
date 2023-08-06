@@ -76,7 +76,7 @@ BOT_TOKEN = "YOUR_TOKEN_HERE"
 - Next, select the `copy` button above permissions and paste the `URL` in the browser.
 - Choose a server for which you have `Manage Server Permissions` and click on `Authorize`.
 
-The bot is thus added to the server successfully.
+The bot is added to the server successfully.
 
 <a name="commands"/>
 
