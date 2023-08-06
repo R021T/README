@@ -108,4 +108,4 @@ You are welcome to contribute by submitting a Pull Request to the repository , s
 
 ## Licensing
 
-The code in this project is licensed under MIT license as found in the [LICENSE.txt](LICENSE.txt) file. Please refer the same for details.
+The code in this project is licensed under MIT license as found in the [LICENSE.md](LICENSE.md) file. Please refer the same for details.
