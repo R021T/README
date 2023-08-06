@@ -17,6 +17,7 @@ Aaronchettan is a discord Bot coded in discord.py, which is used to moderate our
 - [Inviting the bot to the server](#bot-invite)
 - [Commands](#commands)
 - [Contributing](#contributing)
+- [Licensing](#licensing)
 
 
 <a name="setup"/>
@@ -101,4 +102,8 @@ The bot is added to the server successfully.
 
 ## Contributing
 
-You are welcome to contribute by submitting a Pull Request to the repository , see the [CONTRIBUTING.md](CONTRIBUTING) file for details
+You are welcome to contribute by submitting a Pull Request to the repository , see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details
+
+## Licensing
+
+The code in this project is licensed under MIT license as found in the [LICENSE.txt](LICENSE.txt) file. Please refer the same for details.
