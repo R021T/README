@@ -1,7 +1,11 @@
 ## How to Open an Issue
 
-- To create an issue, follow this [link](https://github.com/gtechatfg/gtech-atfg-discord-bot/issues/new/choose) and choose the appropriate template.
+- To create an issue, follow this [link](https://github.com/gtechatfg/gtech-atfg
+
+-discord-bot/issues/new/choose) and choose the appropriate template.
+
 - Use a short, descriptive title for the issue.
+
 - Provide a brief explanation of what you think needs to be changed or improved.
 
 ## How to Submit a Pull Request
